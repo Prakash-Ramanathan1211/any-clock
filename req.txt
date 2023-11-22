@@ -1,4 +1,4 @@
 12 img drag and drop
 image drag and drop
-5 lines of bio
+5 lines of bio - generate by AI - button - OPENAI random comment - funny + positive
 else no submission allowed

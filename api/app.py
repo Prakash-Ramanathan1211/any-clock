@@ -18,9 +18,6 @@ from PIL import Image, ImageDraw, ImageFilter, ImageFont
 import cv2
 import math
 import random
-from dotenv import load_dotenv
-
-load_dotenv()
 
 app = Flask(__name__)
 
