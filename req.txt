@@ -2,3 +2,4 @@
 image drag and drop
 5 lines of bio - generate by AI - button - OPENAI random comment - funny + positive
 else no submission allowed
+anyoneclock.featurepeneur.com/<path>
