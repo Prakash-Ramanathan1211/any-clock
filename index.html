@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+    <!--
+        https://codingpointer.com/jquery-examples/jquery-to-update-title
+    -->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <link rel="stylesheet" href="clock.css">
+    
+</head>
+<body>
+    <div id="clockContainer">
+        <div id="hour"></div>
+        <div id="minute"></div>
+        <div id="second"></div>
+    </div>
+
+<script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
+
+<script>
+$( document ).ready(function() {
+    // console.log( "ready!" );
+
+    var htmlTitle = "AK's Thunivu Clock";
+
+    $(document).attr("title", htmlTitle);
+});
+</script>
+<script src="clock.js"></script>
+
+</body>
+</html>
