@@ -131,3 +131,13 @@ dmypy.json
 .pyre/
 
 .vscode/
+
+fip.csv
+
+# static/images/pics/*/*.jpg
+# static/images/pics/*/*.jpeg
+# static/images/pics/*/*.png
+static/images/pics/*/*.webp
+static/images/circle/*.jpg
+static/images/circle/*.png
+static/images/circle/*.webp
